@@ -3,7 +3,7 @@ schema_version = "1.0.0"
 id = "quick_camera_setup"
 version = "15.5.0"
 name = "快速设置相机"
-tagline = "物体模式按 D 弹出相机设置弹窗：焦距、光圈预设、景深聚焦、构图辅助一键直达"
+tagline = "选中相机后按 D 弹出设置弹窗：焦距、光圈预设、景深聚焦、构图辅助一键直达"
 maintainer = "一枫"
 type = "add-on"
 
