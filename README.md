@@ -46,3 +46,17 @@ Blender 的相机参数散落各处：焦距在镜头栏、光圈和焦点在景
 ## 许可证
 
 [GPL-3.0-or-later](LICENSE)
+
+## 同系列插件 · More by wen-yifeng
+
+**相机 / Camera** — [camera_list](https://github.com/wen-yifeng/camera_list)（F10 切相机）· [quick_camera_setup](https://github.com/wen-yifeng/quick_camera_setup)（D 键相机设置）
+
+**灯光 / Lighting** — [quick_light_setup](https://github.com/wen-yifeng/quick_light_setup)（D 键灯光设置）· [smart_light_size](https://github.com/wen-yifeng/smart_light_size)（拖拽调灯大小）
+
+**视图 / Viewport** — [view_reset](https://github.com/wen-yifeng/view_reset)（Alt+R 一键复位）· [view_rotate_mode_switch](https://github.com/wen-yifeng/view_rotate_mode_switch)（轨迹球旋转）· [view_alerts_hud](https://github.com/wen-yifeng/view_alerts_hud)（Shift+F2 状态 HUD）
+
+**工作流 / Workflow** — [outliner_smart_sync](https://github.com/wen-yifeng/outliner_smart_sync)（大纲批量显隐）· [editor_split](https://github.com/wen-yifeng/editor_split)（一键分屏）· [npanel_focus](https://github.com/wen-yifeng/npanel_focus)（Q 键 N 面板）· [duplicate_to_collection](https://github.com/wen-yifeng/duplicate_to_collection)（复制到集合）· [object_mode_uv_unwrap](https://github.com/wen-yifeng/object_mode_uv_unwrap)（物体模式 UV）· [render_auto_save](https://github.com/wen-yifeng/render_auto_save)（F12 自动存图）
+
+**预设 / Presets** — [pme_preset](https://github.com/wen-yifeng/pme_preset)（Pie Menu Editor 80 个饼菜单）
+
+好用的话点个 Star ⭐ · A star is appreciated if it helps you.
