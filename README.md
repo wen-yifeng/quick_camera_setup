@@ -1,5 +1,8 @@
 # 快速设置相机 (Quick Camera Setup)
 
+
+[![Latest release](https://img.shields.io/github/v/release/wen-yifeng/quick_camera_setup?sort=semver)](https://github.com/wen-yifeng/quick_camera_setup/releases/latest) [![Downloads](https://img.shields.io/github/downloads/wen-yifeng/quick_camera_setup/total)](https://github.com/wen-yifeng/quick_camera_setup/releases)
+
 Blender 的相机参数散落各处：焦距在镜头栏、光圈和焦点在景深面板、构图辅助线藏在显示选项里、背景图透明度还要进外框设置——构图调机位时来回跳转，效率很低。
 
 本插件把相机设置集中到一个弹窗：**物体模式选中相机按 `D`**，焦距、光圈、景深、构图辅助线、外框背景图一屏搞定；同样的界面也集成在 3D 视图 `N` 面板中。
@@ -31,6 +34,16 @@ Blender 的相机参数散落各处：焦距在镜头栏、光圈和焦点在景
 - **弹窗宽度**：180 ～ 500 可调
 
 ## 安装
+
+**方式一（推荐）：一键安装全部插件并自动更新**
+
+Blender → 编辑 → 偏好设置 → 获取扩展（Get Extensions）→ 右上角 ▼ → 添加远程仓库（Add Remote Repository），粘贴：
+
+```
+https://wen-yifeng.github.io/blender-extensions/index.json
+```
+
+**方式二：单独安装本插件**
 
 1. 在 [Releases](../../releases) 页面下载 `quick_camera_setup-x.x.x.zip`
 2. Blender → 编辑 → 偏好设置 → 获取扩展（Get Extensions）
